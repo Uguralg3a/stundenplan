@@ -44,7 +44,7 @@ export default function Home() {
     <td class="tg-031e">10:40 Uhr</td>
     <td class="tg-b4hr">Physik</td>
     <td class="tg-4dp2">Politik</td>
-    <td class="tg-cxkv">Sport</td>
+    <td class="tg-031e">Sport</td>
     <td class="tg-8o5d">Erdkunde</td>
     <td class="tg-5fb6">Deutsch</td>
   </tr>
@@ -63,7 +63,7 @@ export default function Home() {
     <td class="tg-031e">12:35 Uhr</td>
     <td class="tg-031e">Chemie</td>
     <td class="tg-031e">Kurs</td>
-    <td class="tg-p2e8">Englisch</td>
+    <td class="tg-8e65">Englisch</td>
     <td class="tg-031e">ZUG</td>
     <td class="tg-4q7z">Mathe</td>
   </tr>
