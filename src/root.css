@@ -3,14 +3,19 @@ body {
     'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: grey;
 }
-
-.tg {
-  border-collapse:collapse;
-  border-spacing:0;
-}
+.tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;
-       word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-4dp2{background-color:#b900ff}
+.tg .tg-4q7z{background-color:#3531ff}
+.tg .tg-8o5d{background-color:#34ff34}
+.tg .tg-p2e8{background-color:#ffcc67}
+.tg .tg-cxkv{background-color:#ffffff}
+.tg .tg-b4hr{background-color:#68fdff}
+.tg .tg-djqx{background-color:#f8a102;color:#333333}
+.tg .tg-5fb6{background-color:#fe0000}
+.tg .tg-82n6{background-color:#fd34ff}
+.tg .tg-8e65{background-color:#f8a102}
 
 a {
   margin-right: 1rem;
