@@ -18,14 +18,14 @@ export default function Root() {
   return (
     <Html lang="en">
       <Head>
-        <Title>Stundenplan 8a</Title>
+        <Title>8a</Title>
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <Body>
         <Suspense>
           <ErrorBoundary>
-            
+          
             <Routes>
               <FileRoutes />
             </Routes>
