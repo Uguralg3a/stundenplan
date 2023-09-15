@@ -26,7 +26,7 @@ export default function Root() {
         <Suspense>
           <ErrorBoundary>
           <div class="topnav">
-  <a class="active" href="https://ghr-8a.netlify.app/">Home</a>
+  <a href="https://ghr-8a.netlify.app/">Home</a>
   <a href="https://ghr-8a.netlify.app/stundenplan">Stundenplan</a>
   <a href="https://ghr-8a.netlify.app/dokumente">Dokumente</a>
 </div>
