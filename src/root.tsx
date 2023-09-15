@@ -26,9 +26,9 @@ export default function Root() {
         <Suspense>
           <ErrorBoundary>
           <div class="topnav">
-  <a class="active" href="routes/index.tsx">Home</a>
-  <a href="routes/Stundenplan.tsx">Stundenplan</a>
-  <a href="routes/Dokumente.tsx">Dokumente</a>
+  <a class="active" href="https://ghr-8a.netlify.app/">Home</a>
+  <a href="https://ghr-8a.netlify.app/stundenplan">Stundenplan</a>
+  <a href="https://ghr-8a.netlify.app/dokumente">Dokumente</a>
 </div>
             <Routes>
               <FileRoutes />
