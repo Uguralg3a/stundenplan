@@ -27,7 +27,7 @@ export default function Root() {
           <ErrorBoundary>
           <div class="topnav">
   <a class="active" href="routes/index.tsx">Home</a>
-  <a href="routes/stundenplan.tsx">Stundenplan</a>
+  <a href="routes/Stundenplan.tsx">Stundenplan</a>
   <a href="routes/Dokumente.tsx">Dokumente</a>
 </div>
             <Routes>
