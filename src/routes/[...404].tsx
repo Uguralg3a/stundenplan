@@ -1,5 +1,6 @@
 import { Title } from "solid-start";
 import { HttpStatusCode } from "solid-start/server";
+import "./404.css"
 
 export default function NotFound() {
   return (
